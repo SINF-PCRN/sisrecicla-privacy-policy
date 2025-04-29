@@ -88,7 +88,7 @@ Seus dados podem ser compartilhados nas seguintes situações:
 
 
 
-Backend do Aplicativo: Dados são enviados ao nosso servidor hospedado em [inserir URL do backend, ex.: https://sisrecicla-backend.onrender.com] para processamento de cadastros e armazenamento seguro.
+Backend do Aplicativo: Dados são enviados ao nosso servidor hospedado em [https://sinf2.policiacivil.rn.gov.br/sisrecicla] para processamento de cadastros e armazenamento seguro.
 
 
 
@@ -138,7 +138,7 @@ Oposição: Recusar o processamento de dados para certos fins.
 
 
 
-Portabilidade: Solicitar a transferência de seus dados para outro serviço. Para exercer esses direitos, entre em contato conosco em [inserir e-mail de contato, ex.: suporte@sisrecicla.com].
+Portabilidade: Solicitar a transferência de seus dados para outro serviço. Para exercer esses direitos, entre em contato conosco em [suporte@sisrecicla.com].
 
 6. Como Solicitar a Exclusão de Dados
 
