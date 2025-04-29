@@ -178,13 +178,6 @@ Se você tiver dúvidas, preocupações ou solicitações relacionadas à privac
 
 
 
-E-mail: [inserir e-mail, ex.: suporte@sisrecicla.com]
-
-
-
-Endereço: [inserir endereço físico, se aplicável, ex.: Rua Exemplo, 123, Cidade, Estado, Brasil]
-
-Estamos comprometidos em proteger sua privacidade e responderemos às suas solicitações o mais rápido possível.
 
 
 
