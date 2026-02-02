@@ -66,6 +66,7 @@ Ou entre em contato oficial através do e-mail de suporte abaixo.
 6. Contato
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o tratamento de seus dados, entre em contato com o desenvolvedor responsável ou o órgão gestor:
 
-E-mail de Suporte: [pc.rn.gov.br]
+E-mail de Suporte: [sinf@pc.rn.gov.br]
 
 Entidade: Polícia Civil do Rio Grande do Norte
+
