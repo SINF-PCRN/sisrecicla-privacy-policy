@@ -1,183 +1,71 @@
 Política de Privacidade do SisRecicla
+Última atualização: 02 de Fevereiro de 2026
 
-Última atualização: 29 de abril de 2025
+A SisRecicla (vinculada à Polícia Civil do Rio Grande do Norte, pacote br.gov.rn.policiacivil.sisreciclaapk) valoriza a privacidade dos usuários. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações pessoais, em conformidade com a Lei Geral de Proteção de Dados (LGPD) do Brasil e as políticas de dados do Google Play.
 
-A SisRecicla ("nós", "nosso") valoriza a privacidade dos usuários do aplicativo SisRecicla (pacote com.pcrn.sisreciclaapk). Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações pessoais, em conformidade com a Lei Geral de Proteção de Dados (LGPD) do Brasil e outras regulamentações aplicáveis. Ao usar o aplicativo, você concorda com as práticas descritas abaixo.
+Ao utilizar o aplicativo, você concorda com as práticas descritas abaixo.
 
 1. Informações que Coletamos
-
-Coletamos as seguintes informações para fornecer e melhorar os serviços do aplicativo:
-
 1.1. Informações Fornecidas pelo Usuário
+Para o funcionamento do sistema, coletamos dados que você nos fornece voluntariamente:
 
+Dados Pessoais: Nome, CPF/CNPJ, e-mail, telefone, endereço, tipo de cadastro e credenciais de login.
 
-
-
-
-Dados Pessoais: Nome, CPF, e-mail, telefone, endereço, tipo de cadastro (pessoa física ou jurídica), senha.
-
-
-
-Documentos: Comprovante de endereço, documento de identidade (PDF ou imagem), ou outros arquivos enviados durante o cadastro ou uso do aplicativo.
-
-
-
-Outras Informações: Dados inseridos em formulários, como preferências de reciclagem ou respostas a perguntas no aplicativo.
+Conteúdo de Fiscalização e Transações: Fotos de materiais, comprovantes, notas fiscais e relatórios inseridos no sistema.
 
 1.2. Dados Coletados Automaticamente
+Dados do Dispositivo: Modelo do aparelho, sistema operacional, endereço IP e identificadores técnicos para controle de sessão e segurança.
 
+Logs de Erros: Relatórios de falhas (crash logs) para manutenção e estabilidade do sistema.
 
+1.3. Permissões e Acesso a Recursos do Dispositivo
+O aplicativo solicita acesso a recursos específicos apenas quando necessário para uma funcionalidade:
 
+Câmera: Utilizada para capturar fotos de materiais, documentos ou locais de fiscalização em tempo real dentro do aplicativo.
 
+Imagens e Arquivos (Mídia):
 
-Dados de Uso: Informações sobre como você interage com o aplicativo, como páginas visitadas, botões clicados e tempo de uso.
+Android 13 e superior: Utilizamos o Seletor de Fotos do Sistema (Photo Picker). O aplicativo não possui acesso total à sua galeria. Temos acesso apenas às fotos ou vídeos específicos que você selecionar manualmente para upload.
 
+Android 12 e inferior: Solicitamos a permissão de leitura de armazenamento (READ_EXTERNAL_STORAGE) estritamente para permitir que você anexe arquivos ou fotos já existentes no dispositivo ao seu cadastro ou fiscalização.
 
+Localização: Solicitamos acesso à localização (ACCESS_FINE_LOCATION) para validar o local onde as transações de reciclagem ou fiscalizações estão sendo realizadas, garantindo a integridade dos dados geográficos.
 
-Dados do Dispositivo: Modelo do dispositivo, sistema operacional, identificadores únicos (ex.: ID do dispositivo), endereço IP, informações de rede.
-
-
-
-Dados de Log: Logs de erros (crash reports) para diagnóstico e melhoria do aplicativo.
-
-1.3. Dados Coletados por Permissões
-
-O aplicativo solicita permissões para acessar certos recursos do dispositivo:
-
-
-
-
-
-Armazenamento (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, MANAGE_EXTERNAL_STORAGE): Para permitir o upload e download de documentos (ex.: PDF, imagens) relacionados ao cadastro ou reciclagem.
-
-
-
-Mídia (READ_MEDIA_IMAGES, READ_MEDIA_VIDEO): Para acessar imagens ou vídeos que você escolhe enviar no aplicativo. Essas permissões são usadas apenas para as funcionalidades descritas e solicitamos seu consentimento antes de acessá-las.
+Telefone (Discador): O aplicativo possui um atalho para realizar denúncias (Ligue 181). Ao utilizar essa função, o aplicativo apenas abre o discador do seu telefone com o número preenchido. Não gravamos ligações nem acessamos seu histórico de chamadas.
 
 2. Como Usamos Suas Informações
+Utilizamos os dados coletados para:
 
-Usamos suas informações para:
+Prestação de Serviço: Gerenciar o cadastro de recicladores, processar fiscalizações e registrar transações de materiais.
 
+Segurança e Conformidade: Validar a identidade dos usuários e prevenir fraudes no sistema de reciclagem.
 
-
-
-
-Fornecer Serviços: Processar cadastros, gerenciar contas, facilitar o envio de documentos e conectar usuários a serviços de reciclagem.
-
-
-
-Melhorar o Aplicativo: Analisar dados de uso para corrigir erros, otimizar desempenho e desenvolver novos recursos.
-
-
-
-Comunicação: Enviar notificações, atualizações ou respostas a solicitações via e-mail ou telefone.
-
-
-
-Conformidade Legal: Atender a obrigações legais, como auditorias ou solicitações de autoridades competentes.
-
-
-
-Segurança: Proteger contra fraudes, acessos não autorizados ou uso indevido do aplicativo.
+Comunicação: Enviar notificações importantes sobre sua conta ou sobre o sistema.
 
 3. Compartilhamento de Dados
+Seus dados são tratados com confidencialidade e compartilhados apenas nas seguintes hipóteses:
 
-Seus dados podem ser compartilhados nas seguintes situações:
+Servidores Governamentais: Os dados são processados e armazenados nos servidores da Polícia Civil do Rio Grande do Norte (PCRN) e órgãos estaduais competentes para fins de fiscalização e controle.
 
+Obrigação Legal: Podemos divulgar dados para cumprir ordens judiciais ou regulatórias.
 
-
-
-
-Backend do Aplicativo: Dados são enviados ao nosso servidor hospedado em [https://sinf2.policiacivil.rn.gov.br/sisrecicla] para processamento de cadastros e armazenamento seguro.
-
-
-
-Prestadores de Serviços: Podemos usar serviços de terceiros (ex.: hospedagem em nuvem, ferramentas de análise anônima) que cumprem padrões de segurança e privacidade. Esses provedores têm acesso limitado aos dados e apenas para fins específicos.
-
-
-
-Obrigação Legal: Podemos divulgar dados para cumprir ordens judiciais, responder a autoridades ou proteger nossos direitos legais. Não compartilhamos seus dados pessoais com terceiros para fins de marketing sem seu consentimento explícito.
+Não vendemos nem compartilhamos seus dados pessoais com terceiros para fins de marketing ou publicidade.
 
 4. Armazenamento e Segurança
+Seus dados são armazenados em ambiente seguro, utilizando protocolos de criptografia (HTTPS/TLS) durante a transmissão para nossos servidores (https://sisrecicla.policiacivil.rn.gov.br/sisrecicla). Adotamos medidas técnicas e administrativas para proteger suas informações contra acesso não autorizado.
 
+5. Exclusão de Dados
+Você tem o direito de solicitar a exclusão de sua conta e dados pessoais, salvo quando a retenção for necessária para cumprimento de obrigação legal ou regulatória (conforme Art. 16 da LGPD), dada a natureza de fiscalização do aplicativo.
 
+Para solicitar a exclusão ou inativação de dados:
 
+Utilize a opção "Excluir Conta" dentro do menu de configurações do aplicativo (se disponível).
 
+Ou entre em contato oficial através do e-mail de suporte abaixo.
 
-Armazenamento: Seus dados são armazenados em servidores seguros hospedados por [inserir provedor, ex.: Render]. Dados locais (ex.: documentos) permanecem no dispositivo, a menos que você os envie ao servidor.
+6. Contato
+Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o tratamento de seus dados, entre em contato com o desenvolvedor responsável ou o órgão gestor:
 
+E-mail de Suporte: [pc.rn.gov.br]
 
-
-Segurança: Usamos medidas técnicas e organizacionais, como criptografia e controles de acesso, para proteger seus dados contra acesso não autorizado, perda ou alteração.
-
-
-
-Retenção: Mantemos seus dados apenas pelo tempo necessário para cumprir os propósitos descritos ou conforme exigido por lei. Você pode solicitar a exclusão de seus dados a qualquer momento (veja seção 6).
-
-5. Seus Direitos
-
-De acordo com a LGPD e outras leis aplicáveis, você tem os seguintes direitos:
-
-
-
-
-
-Acesso: Solicitar uma cópia dos dados que temos sobre você.
-
-
-
-Correção: Atualizar ou corrigir dados imprecisos.
-
-
-
-Exclusão: Solicitar a exclusão de seus dados, exceto quando exigido por lei.
-
-
-
-Oposição: Recusar o processamento de dados para certos fins.
-
-
-
-Portabilidade: Solicitar a transferência de seus dados para outro serviço. Para exercer esses direitos, entre em contato conosco em [suporte@sisrecicla.com].
-
-6. Como Solicitar a Exclusão de Dados
-
-Você pode excluir sua conta e dados associados diretamente no aplicativo:
-
-
-
-
-
-Acesse a seção Configurações ou Perfil.
-
-
-
-Selecione Excluir Conta.
-
-
-
-Siga as instruções para confirmar a exclusão. Alternativamente, envie um e-mail para [inserir e-mail] com o assunto "Solicitação de Exclusão de Dados" e inclua seu CPF ou e-mail cadastrado. Processaremos sua solicitação em até 15 dias, conforme a LGPD.
-
-7. Aplicativos voltados para Crianças
-
-O SisRecicla não é destinado a crianças menores de 13 anos. Não coletamos intencionalmente dados de crianças. Se você acredita que coletamos dados de uma criança, entre em contato para que possamos excluí-los imediatamente.
-
-8. Links para Terceiros
-
-O aplicativo pode conter links para sites ou serviços de terceiros (ex.: parceiros de reciclagem). Não somos responsáveis pelas práticas de privacidade desses terceiros. Recomendamos que você leia suas políticas de privacidade.
-
-9. Alterações nesta Política
-
-Podemos atualizar esta Política de Privacidade periodicamente para refletir mudanças no aplicativo ou na legislação. Notificaremos você sobre alterações significativas por meio do aplicativo ou e-mail. A versão mais recente estará sempre disponível na URL desta política.
-
-10. Contato
-
-Se você tiver dúvidas, preocupações ou solicitações relacionadas à privacidade, entre em contato conosco:
-
-
-
-
-
-
-
-
+Entidade: Polícia Civil do Rio Grande do Norte
